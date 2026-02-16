@@ -1,16 +1,35 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+IamMohdAnas+GitHub;Learning+Tech+Step+by+Step;Building+Future+Projects&center=true&width=500&height=45">
+</p>
 
-<!--
-**SnapVoid/SnapVoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm SnapVoid 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* Exploring tech & coding step by step
+* Interested in building useful things on the internet
+* Learning today → Building tomorrow
+
+## 🌱 Currently Learning
+
+* Web basics
+* Tools & tech concepts
+
+## 🎯 Goal
+
+Create projects that help people and improve my skills daily.
+
+## 📫 Contact
+
+[contactiammohdanas@gmail.com](mailto:contactiammohdanas@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile
+## 📊 GitHub Stats
+![Anas GitHub stats](https://github-readme-stats.vercel.app/api?username=IamMohdAnasHub&show_icons=true)
+
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=IamMohdAnasHub)
