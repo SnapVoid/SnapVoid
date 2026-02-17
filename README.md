@@ -19,11 +19,7 @@
 
 <h3 align="center">📺 YouTube Creators:- @snapvoid08 || 👾 Creative Gaming Developer from India</h3>
 
-<h3 align="center">
-📺 YouTube Creator:- 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=150&height=25&lines=%40snapvoid08" />
-|| 👾 Creative Gaming Developer from India
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=150&height=25&lines=%40snapvoid08" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snapvoid&label=Profile%20views&color=0e75b6&style=flat" alt="snapvoid" /> </p>
