@@ -1,6 +1,6 @@
 <!-- RGB Animated Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,20:ff00ff,40:00ffff,60:00ff00,80:ffff00,100:ff0000&height=200&section=header&text=SNAP%20VOID&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,20:ff00ff,40:00ffff,60:00ff00,80:ffff00,100:ff0000&height=200&section=header&text=SNAP%20VOID%20GitHub&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <!-- Glitch Divider -->
