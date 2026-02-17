@@ -5,8 +5,9 @@
 <h3 align="center">📺 YouTube Creators:- @snapvoid08 || 👾 Creative Gaming Developer from India</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:ff00ff,50:00ffff,75:00ff00,100:ffff00&height=120&section=header&text=LEVEL%20UP%20WITH%20SNAP%20VOID&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:ff00ff,50:00ffff,75:00ff00,100:ffff00&height=140&section=header&text=%F0%9F%93%BA%20YouTube%20Creator%3A-%20%40snapvoid08%20%7C%7C%20%E2%9A%93%20Creative%20Gaming%20from%20India&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snapvoid&label=Profile%20views&color=0e75b6&style=flat" alt="snapvoid" /> </p>
 
