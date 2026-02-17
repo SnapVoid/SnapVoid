@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi 👋 , I'm Snap Void ;🔰 small Creator ;🎯 Learning Coding and Contact Creator=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi , I'm Snap Void ;Small Creator ;Learning Coding and Contact Creator=true&width=500&height=45">
 </p>
 <h1 align="center">Hi 👋, I'm Snap Void</h1>
 <h3 align="center">📺 YouTube Creators:- @snapvoid08 || 👾 Creative Gaming Developer from India</h3>
