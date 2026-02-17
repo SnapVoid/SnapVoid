@@ -16,16 +16,22 @@
 
 - ⚡ Fun fact **🚀 One day I’ll create my own popular game.**
 
+<h1 align="center">🎮 SNAP VOID ⚡</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=60&lines=Welcome+To+My+Gaming+World+🔥;Minecraft+%7C+Free+Fire+Lover+🎮;Content+Creator+%26+Future+Developer+⚡;Leveling+Up+Everyday+🚀" />
+</p>
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 
 <a href="https://github.com/SnapVoid" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-SnapVoid-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-SnapVoid-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://instagram.com/snapvoid08" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-@snapvoid08-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-@snapvoid08-FF00FF?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://youtube.com/@snapvoid08" target="_blank">
@@ -37,13 +43,9 @@
 </a>
 
 <a href="mailto:snapvoid08@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&height=40&lines=Let's+Build+Something+Amazing+🚀;Follow+Me+On+Social+Media+🔥" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
