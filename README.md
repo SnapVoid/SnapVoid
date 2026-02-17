@@ -41,7 +41,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3" />
 </p>
 
-<h3 align="center">🌐 Connect with me:-</h3>
+<h3 align="center">🌐 Connect with me </h3>
 <p align="left">
 
 <!-- Glitch Divider -->
