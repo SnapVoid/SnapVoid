@@ -43,6 +43,12 @@
 
 <h3 align="center">🌐 Connect with me </h3>
 <p align="left">
+<h3 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=300&height=40&lines=%F0%9F%8C%90+Connect+with+me" />
+</h3>
+
+<p align="center">
+
 
 <!-- Glitch Divider -->
 <p align="center">
