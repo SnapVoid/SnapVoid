@@ -36,8 +36,18 @@
 
 - ⚡ Fun fact **🚀 One day I’ll create my own popular game.**
 
-<h3 align="left">Connect with me:</h3>
+<!-- Glitch Divider -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3" />
+</p>
+
+<h3 align="center">Connect with me:</h3>
 <p align="left">
+
+<!-- Glitch Divider -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3" />
+</p>
 
 <a href="https://github.com/SnapVoid" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
