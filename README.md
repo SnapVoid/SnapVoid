@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&height=80&lines=Hi+%F0%9F%91%8B,+I'm+Snap+Void;%F0%9F%94%B0+YouTube+Creator;%F0%9F%8E%AF+Learning+Coding+%26+Building+Projects" />
 </h1>
 
-
-<h1 align="center">Hi 👋, I'm Snap Void</h1>
 <h3 align="center">📺 YouTube Creators:- @snapvoid08 || 👾 Creative Gaming Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snapvoid&label=Profile%20views&color=0e75b6&style=flat" alt="snapvoid" /> </p>
