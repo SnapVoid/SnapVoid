@@ -2,6 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&height=80&lines=Hi+%F0%9F%91%8B,+I'm+Snap+Void;%F0%9F%94%B0+YouTube+Creator;%F0%9F%8E%AF+Learning+Coding+%26+Building+Projects" />
 </h1>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:ff00ff,50:00ffff,75:00ff00,100:ffff00&height=180&section=header&text=SNAP%20VOID&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B,+I'm+Snap+Void;%F0%9F%94%B0+YouTube+Creator;%F0%9F%8E%AF+Learning+Coding+%26+Building+Projects" />
+</h1>
+
+
 <h3 align="center">📺 YouTube Creators:- @snapvoid08 || 👾 Creative Gaming Developer from India</h3>
 
 <p align="center">
