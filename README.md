@@ -42,7 +42,7 @@
 </p>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=300&height=40&lines=%F0%9F%8C%90+CONNECT+WITH+ME" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=300&height=40&lines=%F0%9F%8C%90+Connect+With+Me" />
 
 </h3>
 
