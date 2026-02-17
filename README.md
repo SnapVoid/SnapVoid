@@ -2,13 +2,21 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&height=80&lines=Hi+%F0%9F%91%8B,+I'm+Snap+Void;%F0%9F%94%B0+YouTube+Creator;%F0%9F%8E%AF+Learning+Coding+%26+Building+Projects" />
 </h1>
 
+<!-- RGB Animated Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:ff00ff,50:00ffff,75:00ff00,100:ffff00&height=180&section=header&text=SNAP%20VOID&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,20:ff00ff,40:00ffff,60:00ff00,80:ffff00,100:ff0000&height=200&section=header&text=SNAP%20VOID&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
+<!-- RGB Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B,+I'm+Snap+Void;%F0%9F%94%B0+YouTube+Creator;%F0%9F%8E%AF+Learning+Coding+%26+Building+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B,+I'm+Snap+Void;🎮+Creative+Gaming+From+India;📺+YouTube+Creator+-+@snapvoid08;💻+Future+Pro+Developer;⚡+RGB+Mode+Activated" />
 </h1>
+
+<!-- Glitch Divider -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3" />
+</p>
+
 
 
 <h3 align="center">📺 YouTube Creators:- @snapvoid08 || 👾 Creative Gaming Developer from India</h3>
