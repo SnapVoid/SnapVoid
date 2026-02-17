@@ -22,7 +22,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SnapVoid" height="30" width="40" />
 </a>
 
-<a href="https://www.instagram.com/snapvoid08" target="_blank">
+<a href="https://www.instagram.com/snapvoid08?igsh=MTV0cnh3c3R4aHE4" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snapvoid08" height="30" width="40" />
 </a>
 
