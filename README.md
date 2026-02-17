@@ -16,12 +16,6 @@
 
 - ⚡ Fun fact **🚀 One day I’ll create my own popular game.**
 
-<h1 align="center">🎮 SNAP VOID ⚡</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=700&height=60&lines=Welcome+To+My+Gaming+World+🔥;Minecraft+%7C+Free+Fire+Lover+🎮;Content+Creator+%26+Future+Developer+⚡;Leveling+Up+Everyday+🚀" />
-</p>
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
