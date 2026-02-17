@@ -1,17 +1,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+IamMohdAnas+GitHub;Learning+Tech+Step+by+Step;Building+Future+Projects&center=true&width=500&height=45">
 </p>
-
-# Hi, I'm SnapVoid 👋
-
-Welcome to my GitHub profile!
-
 <h1 align="center">Hi 👋, I'm Snap Void</h1>
 <h3 align="center">📺 YouTube Creators:- @snapvoid08 || 👾 Creative Gaming Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snapvoid&label=Profile%20views&color=0e75b6&style=flat" alt="snapvoid" /> </p>
 
-- 🎯 Recent Working on YouTube [YouTube ⚓](https://youtube.com/@snapvoid08?si=d-mosrzq6gUfdix_)
+- 🎯 Recent Working on [YouTube ⚓](https://youtube.com/@snapvoid08?si=d-mosrzq6gUfdix_)
 
 - 🌱 I’m currently learning **Game Developer, Design, Codes,**
 
@@ -23,8 +18,9 @@ Welcome to my GitHub profile!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/snapvoid08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snapvoid08" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/snapvoid08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="snapvoid08" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/snapvoid08?igsh=mzy0cmo4bm9nnmt0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/snapvoid08?igsh=mzy0cmo4bm9nnmt0" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@snapvoid08?si=nz2tpifryn0ugfb5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@snapvoid08?si=nz2tpifryn0ugfb5" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/Mnxukgx7u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Mnxukgx7u" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
