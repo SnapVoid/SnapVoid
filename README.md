@@ -41,10 +41,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3" />
 </p>
 
-<h3 align="center">🌐 Connect with me </h3>
-<p align="left">
 <h3 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=300&height=40&lines=%F0%9F%8C%90+Connect+with+me" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=300&height=40&lines=%F0%9F%8C%90+CONNECT+WITH+ME" />
+
 </h3>
 
 <p align="center">
