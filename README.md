@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Hi+👋,+I'm+Snap+Void;🚀+YouTube+Creator;🎮+Minecraft+%7C+Free+Fire;💻+Learning+Coding+Everyday;🔥+Building+Cool+Projects" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Hi,+I'm+Snap+Void;YouTube+Creator;Minecraft+%7C+Free+Fire;Learning+Coding+Everyday;Building+Cool+Projects" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Snap Void</h1>
